@@ -4,6 +4,8 @@ A curated list of projects using AI, LLMs, and multi-agent systems for geopoliti
 
 *Last updated: 2026-04-05*
 
+> See also: [AI-Synthesised-Perspectives](https://github.com/danielrosehill/AI-Synthesised-Perspectives) for multi-agent deliberation and debate tools, and [AI-Decision-Eval-Projects](https://github.com/danielrosehill/AI-Decision-Eval-Projects) for decision-making evaluation frameworks.
+
 ---
 
 ## Table of Contents
@@ -30,6 +32,66 @@ Professional Wargaming LLM Toolbox
 **Language:** Python
 
 **Author:** [user1342](https://github.com/user1342)
+
+---
+
+## [Snowglobe](https://github.com/IQTLabs/snowglobe)
+
+![GitHub stars](https://img.shields.io/github/stars/IQTLabs/snowglobe?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/IQTLabs/snowglobe)
+
+Open-ended wargames with large language models. Multi-agent system where every stage from scenario preparation to post-game analysis can be carried out by AI, humans, or a combination.
+
+**Language:** Python
+
+**Author:** [IQTLabs](https://github.com/IQTLabs) (In-Q-Tel)
+
+---
+
+## [ROMANCER](https://github.com/RANDCorporation/ROMANCER)
+
+![GitHub stars](https://img.shields.io/github/stars/RANDCorporation/ROMANCER?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/RANDCorporation/ROMANCER)
+
+RAND Ontological Model for Assessing Nuclear Crisis Escalation Risk. Agent-based simulation with multiple theories-of-mind for exploring how decisionmaker actions, threats, and demands affect nuclear escalation outcomes.
+
+**Language:** Python
+
+**Author:** [RANDCorporation](https://github.com/RANDCorporation)
+
+---
+
+## [LLMWargaming](https://github.com/ancorso/LLMWargaming)
+
+![GitHub stars](https://img.shields.io/github/stars/ancorso/LLMWargaming?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/ancorso/LLMWargaming)
+
+LLMs for Wargames. Experiment comparing human players to LLM-simulated responses in a fictional US-China crisis escalation scenario with 107 national security experts.
+
+**Language:** Julia
+
+**Author:** [ancorso](https://github.com/ancorso)
+
+---
+
+## [LLM-CBRN-Risks](https://github.com/pillowsofwind/LLM-CBRN-Risks)
+
+![GitHub stars](https://img.shields.io/github/stars/pillowsofwind/LLM-CBRN-Risks?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/pillowsofwind/LLM-CBRN-Risks)
+
+[ACL 2025 Findings] Nuclear Deployed: Analyzing Catastrophic Risks in Decision-making of Autonomous LLM Agents. Studies how LLM agents behave in nuclear crisis scenarios.
+
+**Language:** Python
+
+**Author:** [pillowsofwind](https://github.com/pillowsofwind)
+
+---
+
+## [TIDE2024 LLM Wargame](https://github.com/MilaSong/TIDE2024_LLMwargame)
+
+![GitHub stars](https://img.shields.io/github/stars/MilaSong/TIDE2024_LLMwargame?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/MilaSong/TIDE2024_LLMwargame)
+
+Wargame simulations using LLMs. Created during TIDE Hackathon 2024. Customizable scenarios with support for simulations across all five military domains.
+
+**Language:** Python
+
+**Author:** [MilaSong](https://github.com/MilaSong)
 
 ---
 
@@ -98,6 +160,104 @@ A Simple and Universal Swarm Intelligence Engine, Predicting Anything
 **Language:** Python
 
 **Author:** [666ghj](https://github.com/666ghj)
+
+---
+
+## [MiroFish-Offline](https://github.com/nikmcfly/MiroFish-Offline)
+
+![GitHub stars](https://img.shields.io/github/stars/nikmcfly/MiroFish-Offline?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/nikmcfly/MiroFish-Offline)
+
+Fully local, English-language fork of MiroFish. Multi-agent swarm intelligence engine that simulates public opinion, market sentiment, and social dynamics entirely on local hardware with zero cloud dependencies. Uses Ollama + Neo4j Community Edition.
+
+*Community English fork of the original Chinese MiroFish project, making it accessible to a broader audience and fully self-hostable.*
+
+**Language:** Python
+
+**Author:** [nikmcfly](https://github.com/nikmcfly)
+
+---
+
+## [MiroShark](https://github.com/aaronjmars/MiroShark)
+
+![GitHub stars](https://img.shields.io/github/stars/aaronjmars/MiroShark?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/aaronjmars/MiroShark)
+
+Universal Swarm Intelligence Engine. Multi-agent simulation engine that generates hundreds of AI agents to simulate public reaction across Twitter, Reddit, and Polymarket simultaneously. Features cross-platform simulation with market-media feedback bridge.
+
+*Evolution of the MiroFish concept adding Polymarket prediction market trading alongside social media simulation.*
+
+**Language:** Python
+
+**Author:** [aaronjmars](https://github.com/aaronjmars)
+
+---
+
+## [Hermes Geopolitical Market Sim](https://github.com/nativ3ai/hermes-geopolitical-market-sim)
+
+![GitHub stars](https://img.shields.io/github/stars/nativ3ai/hermes-geopolitical-market-sim?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/nativ3ai/hermes-geopolitical-market-sim)
+
+Hermes skill package for geopolitical market forecasting. Wires together WorldOSINT headless feeds, Polymarket pricing, MiroFish simulation, and Hermes operator workflows. Features counterfactual branching to inject new actors into past simulations and measure butterfly effects.
+
+*Orchestration layer combining OSINT feeds, prediction markets, and multi-agent simulation into one pipeline.*
+
+**Language:** Python
+
+**Author:** [nativ3ai](https://github.com/nativ3ai)
+
+---
+
+## [AI Diplomacy](https://github.com/GoodStartLabs/AI_Diplomacy)
+
+![GitHub stars](https://img.shields.io/github/stars/GoodStartLabs/AI_Diplomacy?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/GoodStartLabs/AI_Diplomacy)
+
+Frontier Models playing the board game Diplomacy. Each power controlled by an autonomous LLM agent that maintains state, forms relationships, conducts negotiations, and makes strategic decisions.
+
+*Uses the board game Diplomacy as substrate for real diplomatic negotiation, alliance formation, and strategic planning — core skills for geopolitical simulation.*
+
+**Language:** Python
+
+**Author:** [GoodStartLabs](https://github.com/GoodStartLabs)
+
+---
+
+## [AgentSociety](https://github.com/tsinghua-fib-lab/AgentSociety)
+
+![GitHub stars](https://img.shields.io/github/stars/tsinghua-fib-lab/AgentSociety?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/tsinghua-fib-lab/AgentSociety)
+
+Large-scale social simulation (10k+ agents, 5M interactions) to understand human behaviors and society through LLM-driven agents. Agents have emotions, needs, motivations, and perform social behaviors including economic activity.
+
+*From Tsinghua University. Can model population-level responses to policy changes, economic shocks, or political events.*
+
+**Language:** Python
+
+**Author:** [tsinghua-fib-lab](https://github.com/tsinghua-fib-lab)
+
+---
+
+## [Political Actor Agent (PAA)](https://github.com/Lihaogx/PAA)
+
+![GitHub stars](https://img.shields.io/github/stars/Lihaogx/PAA?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/Lihaogx/PAA)
+
+[AAAI 2025] Simulating Legislative System for Roll Call Votes Prediction with Large Language Models. Constructs LLM agents representing legislators with profiles, constituency data, and voting history.
+
+*Directly simulates a legislative system with LLM-powered political actors, modeling party influence and roll-call voting.*
+
+**Language:** Python
+
+**Author:** [Lihaogx](https://github.com/Lihaogx)
+
+---
+
+## [LLM Agent Opinion Dynamics](https://github.com/yunshiuan/llm-agent-opinion-dynamics)
+
+![GitHub stars](https://img.shields.io/github/stars/yunshiuan/llm-agent-opinion-dynamics?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/yunshiuan/llm-agent-opinion-dynamics)
+
+Simulating Opinion Dynamics with Networks of LLM-based Agents. Models how opinions spread and shift through social networks of AI agents.
+
+*Relevant to understanding information warfare, political polarization, and mobilization dynamics.*
+
+**Language:** Python
+
+**Author:** [yunshiuan](https://github.com/yunshiuan)
 
 ---
 
