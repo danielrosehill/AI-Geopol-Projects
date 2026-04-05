@@ -10,6 +10,7 @@ A curated list of projects using AI, LLMs, and multi-agent systems for geopoliti
 
 - [Wargaming & Conflict Simulation](#wargaming--conflict-simulation)
 - [Policy Simulation](#policy-simulation)
+- [Multi-Agent Geopolitical Systems](#multi-agent-geopolitical-systems)
 - [Strategic Forecasting](#strategic-forecasting)
 - [International Relations Modeling](#international-relations-modeling)
 - [Frameworks & Tools](#frameworks--tools)
@@ -57,6 +58,46 @@ OmniEcon Nexus is an open-source, high-performance simulation engine for global 
 **Language:** Python
 
 **Author:** [vinhatson](https://github.com/vinhatson)
+
+---
+
+## [Election Agent](https://github.com/YardenMorad2003/election-agent)
+
+![GitHub stars](https://img.shields.io/github/stars/YardenMorad2003/election-agent?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/YardenMorad2003/election-agent)
+
+LLM-powered agentic system for Israeli Knesset election analysis -- comparing 4 tool routing strategies (DS-UA 301)
+
+**Language:** Python
+
+**Author:** [YardenMorad2003](https://github.com/YardenMorad2003)
+
+---
+
+# Multi-Agent Geopolitical Systems
+
+Multi-agent AI systems simulating geopolitical actors and interactions at scale.
+
+## [OASIS](https://github.com/camel-ai/oasis)
+
+![GitHub stars](https://img.shields.io/github/stars/camel-ai/oasis?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/camel-ai/oasis)
+
+Open Agent Social Interaction Simulations with One Million Agents
+
+**Language:** Python
+
+**Author:** [camel-ai](https://github.com/camel-ai)
+
+---
+
+## [MiroFish](https://github.com/666ghj/MiroFish)
+
+![GitHub stars](https://img.shields.io/github/stars/666ghj/MiroFish?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/666ghj/MiroFish)
+
+A Simple and Universal Swarm Intelligence Engine, Predicting Anything
+
+**Language:** Python
+
+**Author:** [666ghj](https://github.com/666ghj)
 
 ---
 
@@ -137,6 +178,42 @@ Open-source modular stack for AI-enhanced policy making. Includes reusable micro
 **Language:** Python
 
 **Author:** [OscarDiez](https://github.com/OscarDiez)
+
+---
+
+## [Agent Council](https://github.com/team-attention/agent-council)
+
+![GitHub stars](https://img.shields.io/github/stars/team-attention/agent-council?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/team-attention/agent-council)
+
+Multi-agent collaboration plugin for Claude Code -- orchestrate multiple AI agents (Codex CLI, Gemini CLI, etc.) for diverse perspectives
+
+**Language:** JavaScript
+
+**Author:** [team-attention](https://github.com/team-attention)
+
+---
+
+## [Brainstormers](https://github.com/Azzedde/brainstormers)
+
+![GitHub stars](https://img.shields.io/github/stars/Azzedde/brainstormers?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/Azzedde/brainstormers)
+
+A suite of specialized agents designed to power brainstorming sessions. Each agent brings a unique perspective and tailored approach to generate creative, targeted solutions for diverse challenges.
+
+**Language:** TypeScript
+
+**Author:** [Azzedde](https://github.com/Azzedde)
+
+---
+
+## [AI Agent Virtual Panel Configs](https://github.com/danielrosehill/AI-Agent-Virtual-Panel-Configs)
+
+![GitHub stars](https://img.shields.io/github/stars/danielrosehill/AI-Agent-Virtual-Panel-Configs?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/AI-Agent-Virtual-Panel-Configs)
+
+Sets of 'panels' for testing Rally (AskRally.com) exploring various 'frontier' applications for the concept of AI personas and simulated voting bodies and thinking groups
+
+**Language:** Shell
+
+**Author:** [danielrosehill](https://github.com/danielrosehill)
 
 ---
 
