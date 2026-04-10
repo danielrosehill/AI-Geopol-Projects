@@ -265,6 +265,38 @@ Simulating Opinion Dynamics with Networks of LLM-based Agents. Models how opinio
 
 AI systems for geopolitical forecasting and scenario analysis.
 
+## [Geopol Forecaster](https://github.com/danielrosehill/Geopol-Forecaster)
+
+![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Geopol-Forecaster?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Geopol-Forecaster)
+
+Two-stage geopolitical forecasting pipeline combining Snowglobe-style actor simulation (38 actors, 4 timesteps) with LLM Council 6-lens analytical panel. Seeded with live Tavily/ISW news data. Produces calibrated probabilistic forecasts with credible intervals.
+
+**Language:** Python
+
+**Author:** [danielrosehill](https://github.com/danielrosehill)
+
+---
+
+## [Geopol Forecasts Index](https://github.com/danielrosehill/Geopol-Forecasts-Index)
+
+![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Geopol-Forecasts-Index?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Geopol-Forecasts-Index)
+
+Index of prediction runs from Geopol Forecaster with accuracy tracking. Links to open-sourced reports including the Iran-Israel-US ceasefire durability assessment (09/04/2026).
+
+**Author:** [danielrosehill](https://github.com/danielrosehill)
+
+---
+
+## [Iran-Israel-Ceasefire-Prediction-090426](https://github.com/danielrosehill/Iran-Israel-Ceasefire-Prediction-090426)
+
+![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Iran-Israel-Ceasefire-Prediction-090426?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Iran-Israel-Ceasefire-Prediction-090426)
+
+Open-sourced forecast run assessing the April 8 2026 Iran-Israel-US ceasefire. Notable for 6-point convergence between independent simulation (28%) and council (22%) stages at the 72-hour mark. Includes full report, code snapshot, and data visualizations.
+
+**Author:** [danielrosehill](https://github.com/danielrosehill)
+
+---
+
 ## [Geopol Forecaster POC](https://github.com/danielrosehill/Geopol-Forecaster-POC)
 
 ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Geopol-Forecaster-POC?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Geopol-Forecaster-POC)
