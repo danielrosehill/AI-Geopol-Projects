@@ -47,6 +47,20 @@ Open-ended wargames with large language models. Multi-agent system where every s
 
 ---
 
+## [Geopol Modeller](https://github.com/danielrosehill/Geopol-Modeller)
+
+![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Geopol-Modeller?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Geopol-Modeller)
+
+Fork of IQTLabs Snow Globe, remodeled around OpenRouter as a single LLM gateway with model pools, a Tavily-powered planning agent, LangGraph simulation loop, Rich progress UI, checkpointing, Typst PDF reports, and edge-TTS podcast generation. Stripped LangChain/torch/transformers in favor of direct OpenAI SDK calls.
+
+*Derived from [IQTLabs/snowglobe](https://github.com/IQTLabs/snowglobe).*
+
+**Language:** Python
+
+**Author:** [danielrosehill](https://github.com/danielrosehill)
+
+---
+
 ## [ROMANCER](https://github.com/RANDCorporation/ROMANCER)
 
 ![GitHub stars](https://img.shields.io/github/stars/RANDCorporation/ROMANCER?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/RANDCorporation/ROMANCER)
