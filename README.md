@@ -2,7 +2,7 @@
 
 A curated list of projects using AI, LLMs, and multi-agent systems for geopolitical wargaming, policy simulation, conflict modeling, and strategic forecasting.
 
-*Last updated: 2026-04-05*
+*Last updated: 2026-04-19*
 
 > See also: [AI-Synthesised-Perspectives](https://github.com/danielrosehill/AI-Synthesised-Perspectives) for multi-agent deliberation and debate tools, and [AI-Decision-Eval-Projects](https://github.com/danielrosehill/AI-Decision-Eval-Projects) for decision-making evaluation frameworks.
 
@@ -284,6 +284,20 @@ AI systems for geopolitical forecasting and scenario analysis.
 ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Geopol-Forecaster?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Geopol-Forecaster)
 
 Two-stage geopolitical forecasting pipeline combining Snowglobe-style actor simulation (38 actors, 4 timesteps) with LLM Council 6-lens analytical panel. Seeded with live Tavily/ISW news data. Produces calibrated probabilistic forecasts with credible intervals.
+
+**Language:** Python
+
+**Author:** [danielrosehill](https://github.com/danielrosehill)
+
+---
+
+## [Geopol Forecast Council](https://github.com/danielrosehill/Geopol-Forecast-Council)
+
+![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Geopol-Forecast-Council?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Geopol-Forecast-Council)
+
+Lean spin-off of Geopol Forecaster that skips the actor simulation. Uses an explicit grounding tool list (RSS + Perplexity Sonar + Tavily) to build a timestamped SITREP, then polls a five-model panel (GLM, DeepSeek, Gemini, Claude, Kimi) for three concrete predictions per horizon with supporting/counterveiling historical precedents, change factors, and confidence values. Structured-output JSON schema, per-stage checkpointing, deterministic Typst rendering with cover page, confidence bars, tone classification, and absolute UTC horizon timestamps. Main + full-verbatim PDF variants.
+
+*Cheap cousin of Geopol Forecaster — trades actor-level emergent dynamics for short-horizon news-grounded panel forecasts.*
 
 **Language:** Python
 
