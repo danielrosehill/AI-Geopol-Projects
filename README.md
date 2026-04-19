@@ -389,6 +389,16 @@ System prompts for geopolitical related AI assistants and tools
 
 ---
 
+## [Iran-Israel-Grounding-Package](https://github.com/danielrosehill/Iran-Israel-Grounding-Package)
+
+![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Iran-Israel-Grounding-Package?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Iran-Israel-Grounding-Package)
+
+Curated whitelist of URLs and sources for AI agents grounding analysis of the Iran–Israel–US conflict (2026). Includes a SITREP-generation skill and a LangGraph pipeline design (3-hour triage → deep-research escalation → SITREP → analyst) intended as the grounding layer for Geopol Forecaster-style forecast producers.
+
+**Author:** [danielrosehill](https://github.com/danielrosehill)
+
+---
+
 ## [OpenPolicyStack](https://github.com/OscarDiez/OpenPolicyStack)
 
 ![GitHub stars](https://img.shields.io/github/stars/OscarDiez/OpenPolicyStack?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/OscarDiez/OpenPolicyStack)
