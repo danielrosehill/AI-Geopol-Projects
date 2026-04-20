@@ -16,6 +16,7 @@ A curated list of projects using AI, LLMs, and multi-agent systems for geopoliti
 - [Strategic Forecasting](#strategic-forecasting)
 - [International Relations Modeling](#international-relations-modeling)
 - [Frameworks & Tools](#frameworks--tools)
+- [Reference Data & Codebooks](#reference-data--codebooks)
 
 ---
 
@@ -442,6 +443,22 @@ A suite of specialized agents designed to power brainstorming sessions. Each age
 Sets of 'panels' for testing Rally (AskRally.com) exploring various 'frontier' applications for the concept of AI personas and simulated voting bodies and thinking groups
 
 **Language:** Shell
+
+**Author:** [danielrosehill](https://github.com/danielrosehill)
+
+---
+
+# Reference Data & Codebooks
+
+Datasets, codebooks, and reference schemas used to ground geopolitical AI projects.
+
+## [CAMEO Codebook](https://github.com/danielrosehill/CAMEO-Codebook)
+
+![GitHub stars](https://img.shields.io/github/stars/danielrosehill/CAMEO-Codebook?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/CAMEO-Codebook)
+
+Unofficial machine-readable (JSON/YAML) extraction of the CAMEO (Conflict and Mediation Event Observations) codebook used by GDELT, ACLED, and other political event data projects. Consolidates the 1.1b3 PDF manual with the full GDELT lookup set (310 event codes with Goldstein scale, 261 country codes, 646 ethnic groups, 117 known international orgs, 31 religion codes, 40 actor-type codes) into a single unified schema.
+
+*Useful as a grounding reference for any LLM-based geopolitical event coding, actor classification, or conflict-data pipeline.*
 
 **Author:** [danielrosehill](https://github.com/danielrosehill)
 
