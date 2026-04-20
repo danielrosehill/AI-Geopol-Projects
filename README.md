@@ -464,6 +464,16 @@ Unofficial machine-readable (JSON/YAML) extraction of the CAMEO (Conflict and Me
 
 ---
 
+## [World-Geopol-Fora](https://github.com/danielrosehill/World-Geopol-Fora)
+
+![GitHub stars](https://img.shields.io/github/stars/danielrosehill/World-Geopol-Fora?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/World-Geopol-Fora)
+
+Machine-readable data about real-world geopolitical fora (UNSC, UNGA, NATO, EU Council, G7/G20, BRICS, SCO, OAS, AU, Arab League, OIC) — membership, mandates, voting rules, and decision dynamics — intended as ground-truth context for multi-agent AI simulations modelling political reactions. UN bodies seeded from AI-Agent-UN; other fora stubbed against a shared JSON Schema.
+
+**Author:** [danielrosehill](https://github.com/danielrosehill)
+
+---
+
 # Contributing
 
 Anyone is welcome to open a pull request to add a project to this list. Drop me a line at public@danielrosehill.com if you'd like me to add it manually.
